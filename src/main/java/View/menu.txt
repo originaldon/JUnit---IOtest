@@ -1,0 +1,10 @@
+Menu:
+
+1: Book
+2: Salg
+3: Film
+4: Varer
+5: Kalender
+6: Statistik
+
+0: Luk

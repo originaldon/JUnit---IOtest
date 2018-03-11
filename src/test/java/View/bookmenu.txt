@@ -1,0 +1,7 @@
+Bookingmenu
+
+1: Plads resevering
+2: Se bookninger
+3: Rediger bookning
+
+0: Tilbage

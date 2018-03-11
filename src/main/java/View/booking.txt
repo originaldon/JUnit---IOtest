@@ -1,0 +1,5 @@
+Indtast tlfnr:
+Indtast navn:
+Indtast sal:
+Indtast række:
+Indtast sæde(r):
